@@ -28,8 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [nees101/FrontendMentor](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-kzEiqeINon)
+- Live Site URL: [nees101/github](https://nees101.github.io/QR-Code-Component/)
 
 ## My process
 
